@@ -1,0 +1,81 @@
+.menubar{
+    background: #b7a8f3;
+    color: #FFFFFF;
+    width: 900px;
+    height: 30px;
+    list-style-type: none;
+    text-align: left;
+}
+.menubar1{
+    background: #676767;
+    color: aliceblue;
+    width: 150px;
+    height: 150px;
+    list-style-type: none;
+    
+    
+}
+#horizontal li{
+    display: inline;
+    list-style: none;
+    padding: 10px;	
+    list-style-type: none;
+    text-align: center;
+    text-decoration: none;
+    
+}
+#vertical li{
+    list-style: none;
+    padding: 20px;
+}
+*{width: 800px}
+img{
+    width: 100px;
+}
+ ul {
+    list-style: none;
+    
+    }
+#search{
+    width: 100px;
+    float: left;
+}
+#enter{
+    width: 300px;
+    float: left;
+}
+#img2{
+    width: 50px;
+    float: left;
+}
+#login{
+    width: 100px;
+    float: left;
+}
+#register{
+    width: 100px;
+    float: left;
+}
+.left{
+    width: 20%;
+  
+    height: 300px;
+    float: left;
+}
+.right{
+    width: 80%;
+    
+    height: 300px;
+    float:right;
+}
+.content{
+    width: 100%;
+    height: 300px;
+    border: 1px solid black
+}
+.footer{
+        width: 100%;
+        height: 100px;
+    
+        border: 1px solid black
+    }
